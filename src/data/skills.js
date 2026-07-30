@@ -6,7 +6,6 @@ import {
 } from 'react-icons/si'
 import { VscVscode } from 'react-icons/vsc'
 
-// Add new skills here only; the section groups and renders every entry automatically.
 export const skills = [
   { name: 'C', icon: SiC, category: 'Languages' },
   { name: 'Java', icon: SiOpenjdk, category: 'Languages' },
